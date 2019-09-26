@@ -1,6 +1,23 @@
 body {
     color: #177c46;
-    background-color:pink;
-    font-family:fantasy;
+    background-color: pink;
+    font-family: fantasy;
     font-size: "15";
 }
+
+li {
+    color: blueviolet;
+}
+/*
+h2 {
+    color: chartreuse;
+}
+*/
+
+</style>
+
+
+</head>
+
+<body>
+
